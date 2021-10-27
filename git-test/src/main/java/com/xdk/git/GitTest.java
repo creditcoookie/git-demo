@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello hot-fix");
         System.out.println("push text");
         System.out.println("pull text");
+        System.out.println("gitee 牛逼");
     }
 }
